@@ -1,5 +1,12 @@
 # 📚 ERIA — Education Regulation Impact Analyzer
 
+
+## 🚀 Live Demo
+### 🌐 Deployed Application
+https://eria-education-regulation-impact-analyzer.onrender.com
+
+
+
 ### Simplifying Complex Education Policies into Actionable Insights
 
 ERIA (Education Regulation Impact Analyzer) is an AI-powered application designed to analyze complex education regulations, guidelines, circulars, and policy documents and convert them into clear, stakeholder-friendly insights.
